@@ -1,4 +1,4 @@
-#### Tutorial: Visitor tracking and A/B testing, with Meteor
+#### Tutorial: Visitor tracking and split testing, with Meteor
 
 Description of this tutorial goes here. Used in your tutorial repo's README.md file.
 
