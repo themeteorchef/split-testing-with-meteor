@@ -1,4 +1,4 @@
-#### Tutorial: User trA/B testing, with Meteor
+#### Tutorial: User tracking and A/B testing, with Meteor
 
 Description of this tutorial goes here. Used in your tutorial repo's README.md file.
 
