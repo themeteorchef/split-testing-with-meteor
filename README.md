@@ -4,7 +4,7 @@ Description of this tutorial goes here. Used in your tutorial repo's README.md f
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/a-b-testing-with-meteor)  
 
-[Download the source (.zip)](https://github.com/themeteorchef/tr-testing-with-mete/archive/master.zip)
+[Download the source (.zip)](https://github.com/themeteorchef/tr-testing-with-m/archive/master.zip)
 
 ---
 
