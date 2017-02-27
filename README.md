@@ -1,10 +1,10 @@
 #### Tutorial: Visitor tracking and split testing, with Meteor
 
-Description of this tutorial goes here. Used in your tutorial repo's README.md file.
+Gain insight into how your app is being used in the wild by tracking visitor actions. Identify weaknesses in your UI and then obliterate them with split testing (AKA A/B testing).
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/a-b-testing-with-meteor)  
 
-[Download the source (.zip)](https://github.com/themeteorchef/tr-testing-with-m/archive/master.zip)
+[Download the source (.zip)](https://github.com/themeteorchef/a-b-testing-with-meteor/archive/master.zip)
 
 ---
 
