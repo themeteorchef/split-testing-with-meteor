@@ -26,8 +26,19 @@ const authenticate = (nextState, replace) => {
     }
 };
 
+let firstVisit = true;
 const track = (nextState)=> {
-    analytics.track('Navigated to', {pathname: nextState.location.pathname});
+    let delay = 0;
+    if (firstVisit) {
+        delay = 1000;
+        firstVisit = false;
+    }
+    
+    const trackVisit = ()=> {
+        analytics.track('Navigated to', {pathname: nextState.location.pathname});
+    }
+    
+    Meteor.setTimeout(trackVisit, delay);
 };
 
 Meteor.startup(() => {
