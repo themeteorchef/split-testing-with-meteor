@@ -1,4 +1,11 @@
 {
-  "public": {},
+  "public": {
+    "astronomer": {
+      "appId": "XXX",
+      "disableUserTracking": false,
+      "disableRouteTracking": true,
+      "disableMethodTracking": false
+    }
+  },
   "private": {}
 }

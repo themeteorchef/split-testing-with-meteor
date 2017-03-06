@@ -1,6 +1,6 @@
 import React from 'react';
 import { browserHistory } from 'react-router';
-import { LinkContainer } from 'react-router-bootstrap';
+import { IndexLinkContainer, LinkContainer } from 'react-router-bootstrap';
 import { Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
 import { Meteor } from 'meteor/meteor';
 
@@ -15,6 +15,9 @@ const userName = () => {
 const AuthenticatedNavigation = () => (
   <div>
     <Nav>
+      <IndexLinkContainer to="/">
+        <NavItem eventKey={ 1 } href="/">Index</NavItem>
+      </IndexLinkContainer>
       <LinkContainer to="/documents">
         <NavItem eventKey={ 2 } href="/documents">Documents</NavItem>
       </LinkContainer>
