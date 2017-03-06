@@ -27,3 +27,8 @@ Meteor.publish('movies.search', (searchTerm) => {
 
   return Movies.find(query, projection);
 });
+
+Meteor.publish('movies.byId', (_id)=>{
+  check(_id,  Match.OneOf(String));
+  return Movies.find({_id});
+});

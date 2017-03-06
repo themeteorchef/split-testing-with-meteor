@@ -32,6 +32,10 @@ const MoviesSchema = new SimpleSchema({
     type: String,
     label: 'The plot of the movie.',
   },
+  detailedPlot:{
+    type: String,
+    label: 'A more detailed plot of the movie.',
+  },
   poster: {
     type: String,
     label: 'The poster image for the movie.',
