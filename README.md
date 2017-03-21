@@ -1,4 +1,4 @@
-#### Tutorial: Visitor tracking and split testing, with Meteor
+#### Tutorial: Split Testing with Meteor
 
 Gain insight into how your app is being used in the wild by tracking visitor actions. Identify weaknesses in your UI and then obliterate them with split testing (AKA A/B testing).
 
