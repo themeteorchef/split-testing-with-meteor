@@ -4,7 +4,7 @@ Gain insight into how your app is being used in the wild by tracking visitor act
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/split-testing-with-meteor)  
 
-[Download the source (.zip)](https://github.com/themeteorchef/a-b-testing-with-meteor/archive/master.zip)
+[Download the source (.zip)](https://github.com/themeteorchef/s/archive/master.zip)
 
 ---
 
