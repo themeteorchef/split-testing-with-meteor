@@ -1,6 +1,6 @@
 #### Tutorial: Split Testing with Meteor
 
-Gain insight into how your app is being used in the wild by tracking visitor actions. Identify weaknesses in your UI and then obliterate them with split testing (AKA A/B testing).
+Gain insight into how your app is being used in the wild by tracking visitor actions. Identify weaknesses in your UI and then obliterate them with split testing ( A/B testing).
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/split-testing-with-meteor)  
 
